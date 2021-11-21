@@ -1,0 +1,24 @@
+body{
+    margin-left: 40%;
+    padding: 50px;
+    background-color: #f0caaa;
+}
+div{
+    margin-top: 20px;
+    
+
+}
+.gol{
+    width: 0px;
+    height: 0px;
+    border-radius: 50%; 
+    border-style: solid;
+    border-color: #000000;
+    border-width: 150px;
+    border-top-color: #dc143c;
+    border-right-color: #b8860b;
+    border-bottom-color: #006400;
+    border-left-color: transparent;
+
+
+}
